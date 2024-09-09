@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning web dev technologies<br>👯 I’m looking to collaborate on web dev projects<br>🤝 I’m looking for help with web dev<br>🌱 Have solved 500+ coding problems on various platforms like gfg,leetcode,codechef,hackerrank</br>
+🔭 I’m currently learning web dev technologies<br>👯 I’m looking to collaborate on web dev projects<br>🤝 I’m looking for help with web dev<br>🌱 Have solved 500+ coding problems on various platforms like gfg,leetcode,codechef,hackerrank etc.</br>
 
 
 ## 🌐 Socials:
